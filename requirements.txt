@@ -1,0 +1,9 @@
+deepgram_sdk==2.12.0
+elevenlabs==1.50.3
+numpy==1.25.0
+openai
+Requests
+webrtcvad
+websockets
+plivo
+asynciogit
